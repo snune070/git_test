@@ -1,0 +1,1 @@
+This is sandy's first git project
